@@ -2,9 +2,6 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 import math
-streamlit
-pandas
-matplotlib
 
 st.title("Data App Assignment, on Oct 7th")
 
